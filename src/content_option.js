@@ -11,8 +11,10 @@ const introdata = {
         second: "I develop cool websites",
         third: "I develop responsive apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I am a Full Stack Software Developer ",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    //with excellent analytical, communication and interpersonal skills. I am commited to an ultimate satisfaction of the thirst of knowledge and adept in using the most up-to-date
+    //techonologies in both hardware and software.
 };
 
 const dataabout = {
