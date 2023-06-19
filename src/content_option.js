@@ -19,7 +19,7 @@ const introdata = {
 
 const dataabout = {
     title: "A bit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I am a motivated Full Stack Software Developer with excellent analytical, communication and interpersonal skills. I am commited to an ultimate satisfaction of the thirst of knowledge and adept in using the most up-to-date. techonologies in both hardware and software. ",
 };
 const worktimeline = [{
         jobtitle: "Full Stack Software Developer",
@@ -138,8 +138,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "dineophahla61@gmail.com",
+    YOUR_FONE: "073160715",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -149,10 +149,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Dineo-dev",
+    //facebook: "https://facebook.com",
+    linkedin: "https://www.linkedin.com/in/dineo-phahla-a4139020b",
+    //twitter: "https://twitter.com",
 };
 export {
     meta,
