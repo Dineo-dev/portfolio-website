@@ -62,7 +62,7 @@ const skills = [{
 
 const services = [{
         title: "UI & UX Design",
-        description: " designers are responsible for creating an optimal experience for the user when they interact with a digital",
+        description: " I am responsible for creating an optimal experience for the user when they interact with a digital",
     },
     {
         title: "Mobile Apps",
@@ -70,7 +70,7 @@ const services = [{
     },
     {
         title: "Wordpress Design",
-        description: "I make custom plugins and modules for WordPress. ",
+        description: "I develop WordPress websites. ",
     },
 ];
 
