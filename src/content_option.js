@@ -44,33 +44,33 @@ const skills = [{
     },
     {
         name: "Django",
-        value: 85,
+       // value: 85,
     },
     {
         name: "Javascript",
-        value: 80,
+        //value: 80,
     },
     {
         name: "React",
-        value: 60,
+        //value: 60,
     },
     {
         name: "SQL",
-        value: 85,
+        //value: 85,
     },
 ];
 
 const services = [{
         title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: " designers are responsible for creating an optimal experience for the user when they interact with a digital",
     },
     {
         title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: " We all know responsive designs need to adapt to all possible environments, as a designer I have to make compromises to find a solution that works in all scenarios, browsers, and screen sizes. ",
     },
     {
         title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        description: "I make custom plugins and modules for WordPress. ",
     },
 ];
 
