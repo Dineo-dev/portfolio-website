@@ -39,11 +39,14 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Angular",
        // value: 90,
     },
     {
-        name: "Django",
+        name: "HTML"
+    },
+    {
+        name: "CSS",
        // value: 85,
     },
     {
@@ -57,6 +60,21 @@ const skills = [{
     {
         name: "SQL",
         //value: 85,
+    },
+    {
+        name: "Python"
+    },
+    {
+        name: "Django",
+       // value: 85,
+    },
+    {
+        name: "Node.js",
+       // value: 85,
+    },
+    {
+        name: "Strapi",
+       // value: 85,
     },
 ];
 
