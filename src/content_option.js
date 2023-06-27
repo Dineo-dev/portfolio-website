@@ -12,7 +12,7 @@ const introdata = {
         third: "I develop responsive apps",
     },
     description: "I am a Full Stack Software Developer ",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: ".src/assets/images/IMG_20230619_095003_197.jpg",
     //with excellent analytical, communication and interpersonal skills. I am commited to an ultimate satisfaction of the thirst of knowledge and adept in using the most up-to-date
     //techonologies in both hardware and software.
 };
@@ -158,7 +158,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "dineophahla61@gmail.com",
     YOUR_FONE: "073160715",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "Hello! This is a platform of queries and project request, contact me for a cool website. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -168,9 +168,9 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/Dineo-dev",
-    //facebook: "https://facebook.com",
+
     linkedin: "https://www.linkedin.com/in/dineo-phahla-a4139020b",
-    //twitter: "https://twitter.com",
+    
 };
 export {
     meta,
