@@ -13,6 +13,8 @@ const introdata = {
     },
     description: "I am a Full Stack Software Developer ",
     your_img_url: ".src/assets/images/IMG_20230619_095003_197.jpg",
+
+    //.src/assets/images/IMG_20230619_095003_197.jpg
     //with excellent analytical, communication and interpersonal skills. I am commited to an ultimate satisfaction of the thirst of knowledge and adept in using the most up-to-date
     //techonologies in both hardware and software.
 };
@@ -95,12 +97,12 @@ const services = [{
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://github.com/jaykimsly5/Hospital-React.git",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
         description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        link: "https://github.com/Freddy-cod/Contract-Management-app.git",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
@@ -161,9 +163,9 @@ const contactConfig = {
     description: "Hello! This is a platform of queries and project request, contact me for a cool website. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_4nxeuzq",
+    YOUR_TEMPLATE_ID: "template_dwxynsj",
+    YOUR_USER_ID: "dineophahla61@gmail.com",
 };
 
 const socialprofils = {
