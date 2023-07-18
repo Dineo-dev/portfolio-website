@@ -95,17 +95,17 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://github.com/jaykimsly5/Hospital-React",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "https://github.com/jaykimsly5/Hospital-React.git",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "https://github.com/jaykimsly5/Hospital-Strapi",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "https://github.com/Freddy-cod/Contract-Management-app.git",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://github.com/jaykimsly5/Hospital-React",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
