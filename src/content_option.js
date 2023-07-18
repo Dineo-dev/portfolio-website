@@ -95,12 +95,12 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://github.com/jaykimsly5/Hospital-React",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://github.com/jaykimsly5/Hospital-React.git",
+        img: "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/99c6f570-6a1b-43c6-8719-f4c09e1df036.jpeg",
+        description: "Take control of your billing, scheduling, clinical notes and patient management",
+        link: "https:/github.com/jaykimsly5/Hospital-React.git",
     },
     {
-        img: "https://github.com/jaykimsly5/Hospital-Strapi",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMyQncUP5rpqRu26dZWhNFTM8jJR0RfEomQA&usqp=CAU",
         description: "The wisdom of life consists in the elimination of non-essentials.",
         link: "https://github.com/Freddy-cod/Contract-Management-app.git",
     },
@@ -115,9 +115,9 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMyQncUP5rpqRu26dZWhNFTM8jJR0RfEomQA&usqp=CAU",
+        description: "Managing the flows of contracts held between a company and its clients/a legal department and other divisions in a corporation",
+        link: "https://github.com/Freddy-cod/Contract-Management-app.git",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
