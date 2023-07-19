@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 
 export const Home = () => {
 
-  const backgroundImage = 'https://www.cdc.gov/coronavirus/2019-ncov/images/symptoms-testing/pcr-test.png?_=15023';
+  const backgroundImage = 'IMG_20230619_095003_197.png';
 
   return (
     <HelmetProvider>
