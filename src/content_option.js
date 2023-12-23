@@ -26,7 +26,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Full Stack Software Developer",
         where: "The Digital Academy",
-        date: "Jun 2022- May 2023",
+        date: "Jun 2022- March 2023",
     },
     {
         jobtitle: " Team Leader",
@@ -42,7 +42,7 @@ const worktimeline = [{
 
 const skills = [{
         name: "Angular",
-       // value: 90,
+        value: 60,
     },
     {
         name: "HTML"
@@ -88,9 +88,15 @@ const services = [{
         title: "Mobile Apps",
         description: " We all know responsive designs need to adapt to all possible environments, as a designer I have to make compromises to find a solution that works in all scenarios, browsers, and screen sizes. ",
     },
+
+    {
+        title: "Web Development",
+        description: " Building responsive and interactive web applications using HTML, CSS, and JavaScript frameworks (such as React, Angular). "
+    },
+
     {
         title: "Wordpress Design",
-        description: "I develop WordPress websites. ",
+        description: "Website Development: Designing and building custom themes, plugins, and responsive websites tailored to client needs. ",
     },
 ];
 
